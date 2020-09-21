@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+  <component name="Encoding">
+    <file url="notebook://C:/Users/Luka/Documents/Luka/EPFL/Financial Engineering/ML/ML_course/projects/project1/scripts/Project 1 attempt.ipynb" charset="ISO-8859-1" />
+  </component>
 </project>
